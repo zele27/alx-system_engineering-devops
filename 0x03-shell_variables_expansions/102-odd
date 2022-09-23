@@ -1,2 +1,2 @@
 #!/bin/bash
--odd
+paste -d" " - - | cut -d " " -f 1
