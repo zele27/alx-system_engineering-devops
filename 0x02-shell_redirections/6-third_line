@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo head -3 ./iacta | tail +3
