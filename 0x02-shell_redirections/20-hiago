@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'tr -d C | tr -d c' >> 20-hiago
